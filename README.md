@@ -1,2 +1,0 @@
-"# Manuales-Tecnicos" 
-"# Manual-Tecnico" 
