@@ -1,0 +1,328 @@
+DBA:
+
+Base de datos:
+
+- Oracle
+- MySQL
+- PostgreSQL
+- SQLite
+- Microsoft SQL Server:
+-  Administrador HeidiSQL
+- MariaDB
+
+- SQL Workbench/J 
+- MongoDB
+
+DBeaver
+Navicat
+
+- Toad datamodeler 
+- SQL Developer
+- SQL Datamodeler
+
+SQLPro Studio
+SQLyog
+
+Valentina Studio
+
+
+Bases de Datos No Relacionales (NoSQL):
+MongoDB
+
+Herramientas de administración: MongoDB Compass, Robo 3T (anteriormente Robomongo), Studio 3T.
+Redis
+
+Herramientas de administración: Redis Desktop Manager, RedisInsight, FastoRedis.
+Cassandra
+
+Herramientas de administración: DataStax DevCenter, Apache Cassandra Query Language Shell (cqlsh).
+Couchbase
+
+Herramientas de administración: Couchbase Server Web Console, Couchbase Query Workbench.
+Neo4j
+
+Herramientas de administración: Neo4j Browser, Bloom, Cypher Shell.
+
+
+--------------------------------------------------------------
+
+Modelado Unificado (StarUML):
+
+
+Enterprise Architect: Una herramienta completa de modelado UML que soporta una amplia gama de diagramas UML y otros diagramas relacionados con el desarrollo de software.
+
+
+Visual Paradigm: Ofrece una amplia gama de funcionalidades para modelado UML y otros tipos de diagramas, incluyendo soporte para desarrollo ágil, 
+gestión de requisitos, y diseño de bases de datos.
+
+
+StarUML: Una herramienta de modelado UML de código abierto que es fácil de usar y compatible con Windows, macOS y Linux.
+
+
+
+Astah: Ofrece una interfaz intuitiva para crear y gestionar diagramas UML y otros diagramas de software. Disponible en versiones gratuita y de pago.
+
+
+
+ArgoUML: Una herramienta de modelado UML de código abierto que soporta todos los diagramas estándar de UML. Es multiplataforma y fácil de usar.
+
+
+
+Lucidchart: Una herramienta de diagramación basada en la web que soporta UML, así como otros tipos de diagramas como diagramas de flujo, diagramas de red y mapas mentales.
+
+
+
+Draw.io (diagrams.net): Otra herramienta de diagramación basada en la web que soporta UML y una amplia gama de otros tipos de diagramas. Es gratuita y fácil de usar.
+
+
+
+IBM Rational Rhapsody: Una herramienta de modelado UML y de ingeniería de sistemas que es parte de la suite IBM Rational. 
+Ofrece funcionalidades avanzadas para modelado de sistemas complejos.
+
+
+
+MagicDraw: Una herramienta de modelado UML que es parte de la suite de productos de Cameo Systems Modeler. Ofrece capacidades avanzadas de modelado y es ampliamente utilizada 
+en el desarrollo de sistemas complejos.
+
+
+
+PlantUML: Una herramienta de código abierto que permite crear diagramas UML a partir de texto escrito en un lenguaje de marcado sencillo. 
+Puede integrarse con varias herramientas de desarrollo y entornos de programación.
+
+
+
+-----------------------------------------------------------
+
+Herramientas de Inteligencia de Negocios (BI)
+
+-----------------------------------------------------------
+
+
+
+
+Tableau: Herramienta de visualización de datos que permite crear dashboards interactivos.
+
+
+Power BI: Plataforma de análisis y visualización de datos de Microsoft.
+
+
+QlikView / Qlik Sense: Herramientas de BI que facilitan el análisis de datos y la creación de informes.
+
+
+
+SAP BusinessObjects: Suite de aplicaciones de BI para la creación de informes, consultas y análisis.
+
+
+
+Looker: Plataforma de BI que permite explorar y visualizar datos.
+
+Sisense: Herramienta que permite la integración, análisis y visualización de datos.
+
+
+Domo: Plataforma de gestión de datos y BI en la nube.
+
+
+MicroStrategy: Plataforma avanzada de BI para el análisis y la creación de informes.
+
+
+IBM Cognos Analytics: Herramienta de BI que ofrece capacidades de generación de informes y análisis predictivo.
+
+
+Yellowfin BI: Solución de BI que incluye análisis, informes y colaboración.
+
+
+
+---------------------------------------------------------
+Herramientas para Ingenieros de Datos
+
+---------------------------------------------------------
+
+
+
+Apache Hadoop: Marco de trabajo de código abierto para el almacenamiento y procesamiento de grandes conjuntos de datos.
+
+
+Apache Spark: Motor de procesamiento de datos en tiempo real que soporta múltiples lenguajes de programación.
+
+
+Apache Kafka: Plataforma de streaming de datos distribuida y de código abierto.
+
+
+Talend: Plataforma de integración de datos que soporta ETL, big data y cloud.
+
+
+Airflow: Plataforma de código abierto para crear, programar y monitorizar flujos de trabajo.
+
+
+
+NiFi: Herramienta de integración de datos en tiempo real de Apache.
+
+
+dbt (data build tool): Herramienta de transformación de datos que permite realizar transformaciones en SQL.
+
+
+
+Snowflake: Plataforma de datos en la nube que permite almacenamiento y análisis de datos.
+
+
+
+AWS Glue: Servicio ETL en la nube que facilita la preparación y carga de datos.
+
+
+
+Google Cloud Dataflow: Servicio de procesamiento de datos en tiempo real de Google Cloud.
+
+
+
+---------------------------------------------------------
+
+
+Herramientas para Científicos de Datos
+
+
+---------------------------------------------------------------
+
+
+
+Jupyter Notebooks: Entorno interactivo para el desarrollo de código en Python y otros lenguajes.
+
+
+
+RStudio: Entorno de desarrollo integrado (IDE) para R, un lenguaje de programación orientado a la estadística.
+
+
+
+Anaconda: Distribución de Python que incluye paquetes y herramientas populares para ciencia de datos.
+
+
+
+TensorFlow: Biblioteca de código abierto para aprendizaje automático desarrollada por Google.
+
+
+
+PyTorch: Biblioteca de aprendizaje automático de código abierto desarrollada por Facebook.
+
+
+
+Scikit-learn: Biblioteca de aprendizaje automático en Python que ofrece herramientas simples y eficientes.
+
+
+
+Apache Mahout: Biblioteca de aprendizaje automático escalable.
+
+
+
+RapidMiner: Plataforma de ciencia de datos que soporta todo el ciclo de vida del aprendizaje automático.
+
+
+
+KNIME: Plataforma de integración de datos y ciencia de datos de código abierto.
+
+
+
+IBM Watson Studio: Plataforma que proporciona herramientas para la ciencia de datos, el aprendizaje automático y la inteligencia artificial.
+
+
+
+Estas herramientas son ampliamente utilizadas en sus respectivos campos y ofrecen una variedad de funcionalidades 
+para facilitar el análisis, procesamiento y visualización de datos.
+
+
+
+
+----------------------------------------------------------------------
+Herramientas Comerciales de ETL
+
+
+
+----------------------------------------------------------------
+
+
+
+
+Informatica PowerCenter: Una de las herramientas de ETL más utilizadas en el mercado, conocida por su capacidad 
+para manejar grandes volúmenes de datos y su amplia gama de conectores.
+
+
+
+Talend: Ofrece una versión de código abierto y una versión comercial, y es conocida por su interfaz fácil de usar y su capacidad para manejar big data y cloud.
+
+
+
+Microsoft SQL Server Integration Services (SSIS): Una herramienta ETL que forma parte de Microsoft SQL Server y es ampliamente utilizada en entornos de Microsoft.
+
+SQL Server Analytics Services (SSIS)
+
+
+
+----------------------------------------------------
+
+
+IBM DataStage: Parte de la suite de IBM Information Server, es conocida por su robustez y capacidad para integrarse con otros productos de IBM.
+
+
+
+SAP Data Services: Proporciona capacidades de ETL junto con una fuerte integración con otros productos de SAP.
+
+
+
+Oracle Data Integrator (ODI): Una herramienta ETL de Oracle que soporta la integración de datos de múltiples fuentes y destinos.
+
+
+--------------------------------------------------
+Herramientas de Código Abierto de ETL
+
+
+---------------------------------------------------
+
+
+Apache Nifi: Un proyecto de Apache que proporciona una interfaz gráfica para diseñar flujos de datos y soporta el procesamiento en tiempo real.
+
+Apache Airflow: Una plataforma de flujo de trabajo programable que se puede utilizar para definir, programar y monitorizar flujos de trabajo ETL.
+
+
+Pentaho Data Integration (PDI): También conocido como Kettle, es una herramienta de ETL de código abierto que ofrece una amplia gama de funcionalidades de transformación de datos.
+
+Luigi: Una herramienta de código abierto desarrollada por Spotify para construir flujos de trabajo complejos de canalización de datos en Python.
+
+Matillion: Una herramienta ETL basada en la nube que se integra con plataformas de datos como Amazon Redshift, Google BigQuery y Snowflake.
+
+Herramientas de ETL en la Nube
+
+AWS Glue: Un servicio ETL en la nube de Amazon Web Services que facilita la preparación y carga de datos para análisis.
+
+
+
+Google Cloud Dataflow: Un servicio de procesamiento de datos en tiempo real que se puede utilizar para implementar flujos de trabajo ETL en Google Cloud.
+
+
+
+
+Azure Data Factory: Un servicio de integración de datos en la nube de Microsoft Azure que permite la creación, programación y monitorización de flujos de trabajo ETL.
+
+Fivetran: Una herramienta ETL en la nube que proporciona integración de datos casi en tiempo real con una configuración mínima.
+
+
+
+
+Stitch: Una plataforma de integración de datos en la nube que ofrece conectores para una amplia gama de fuentes de datos y destinos.
+
+Herramientas de ETL Especializadas
+
+
+dbt (data build tool): Una herramienta que permite a los analistas y científicos de datos transformar datos en sus almacenes de datos utilizando solo SQL.
+
+StreamSets: Proporciona una plataforma para el movimiento continuo de datos en tiempo real y por lotes.
+
+
+
+Alooma: Una plataforma de integración de datos que permite la ingesta de datos en tiempo real y ofrece transformaciones antes de cargar los datos en un almacén de datos.
+
+Estas herramientas ofrecen una variedad de funcionalidades para cubrir diferentes necesidades de ETL, desde la ingesta de datos en tiempo real hasta 
+la integración y transformación de grandes volúmenes de datos en entornos tanto locales como en la nube.
+
+
+
+
+
+
